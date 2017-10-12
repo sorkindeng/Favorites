@@ -1,0 +1,2 @@
+# Favorites
+Web browser Favorites
